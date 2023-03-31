@@ -1,0 +1,97 @@
+.blog-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 45px;
+    padding: 50px;
+    
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    
+    
+    
+}
+.user-img{
+    width: 80px;
+    border-radius: 80px;
+    padding: 10px;
+}
+.user-details{
+    display: flex;
+    align-items: center;
+}
+
+.cover{
+    border-radius: 5px;
+    
+}
+
+.user-name{
+    line-height: 0.5;
+}
+.bookmark{margin-left: 160px;
+    border: none;
+    align-items: center;
+    display: flex;
+}
+
+.title{
+    width: 350px;
+}
+.cart-container{
+    background-color: rgb(234, 233, 231);
+    padding: 10px;
+}
+
+
+
+
+
+.QA{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    
+  }
+  .q1{
+    margin:2px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(242, 239, 236);
+    border-bottom: 3px solid rgb(191, 189, 189); 
+      
+  }
+  .q2{
+    margin:2px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(242, 239, 236);
+    border-bottom: 3px solid rgb(191, 189, 189); 
+      
+  }
+  .q3{
+    margin:2px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(242, 239, 236);
+    border-bottom: 3px solid rgb(191, 189, 189); 
+      
+  }
+  .q4{
+    margin:2px;
+    width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgb(242, 239, 236);
+    border-bottom: 3px solid rgb(191, 189, 189); 
+      
+  }
+  
+  
+  
